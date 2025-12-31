@@ -1,0 +1,16 @@
+﻿,gen_A509xA637,gen_A509xA661,gen_A509xCM105,gen_A509xEP28,gen_A509xEP31,gen_A509xEP42,gen_A509xF7,gen_A509xPB60,gen_A509xZ77016,gen_A637xA661,gen_A637xCM105,gen_A637xEP28,gen_A637xEP31,gen_A637xEP42,gen_A637xF7
+gen_A509xA637,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+gen_A509xA661,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+gen_A509xCM105,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+gen_A509xEP28,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+gen_A509xEP31,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+gen_A509xEP42,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+gen_A509xF7,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False
+gen_A509xPB60,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False
+gen_A509xZ77016,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False
+gen_A637xA661,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+gen_A637xCM105,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False
+gen_A637xEP28,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
+gen_A637xEP31,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False
+gen_A637xEP42,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False
+gen_A637xF7,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True
